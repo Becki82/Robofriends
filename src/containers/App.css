@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Woodcutter Vintage Cartoon Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Woodcutter Vintage Cartoon Bold'), url('Woodcutter Vintage Cartoon.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Woodcutter Vintage Cartoon Bold';
+        font-weight: 400;
+        color: #0ccac4;
+    
+    }
+
+
